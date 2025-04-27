@@ -11,5 +11,8 @@
 
 (Во вкладке Services) ![image](https://github.com/user-attachments/assets/f8986eeb-a141-4568-afee-cc69a2b62bdd)
 
-Необходимо в окне выбрать Start Type: и поставить Auto start ![image](https://github.com/user-attachments/assets/050819c9-17f4-4c3f-afd5-b6480d84a050)
+Необходимо в окне выбрать Start Type: и поставить Auto start 
 
+
+
+![image](https://github.com/user-attachments/assets/050819c9-17f4-4c3f-afd5-b6480d84a050)
